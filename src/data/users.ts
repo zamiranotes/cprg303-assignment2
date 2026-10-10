@@ -23,7 +23,7 @@ export const currentUser: UserProfile = {
   username: "Raerae",
   avatar: require("../../assets/images/splashpictures/person1.jpg"),
   bio: "SAIT student 📱 | Learning React Native, and many more! I love Software Development!",
-  postsCount: 10,
+  postsCount: 12,
   followers: 531,
   following: 104,
 };
